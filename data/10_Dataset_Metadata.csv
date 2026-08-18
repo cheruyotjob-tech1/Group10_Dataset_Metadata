@@ -1,0 +1,21 @@
+dataset_id,dataset_name,number_of_records,number_of_variables,missing_values,duplicate_records,source_type,contains_personal_data
+D001,Student Survey 2025,931,8,47,7,Survey,FALSE
+D002,Market Prices 2026,1362,11,94,14,Sensor,FALSE
+D003,Weather Logs 2024,1793,14,141,21,Administrative,FALSE
+D004,Retail Transactions 2025,2224,17,188,28,CSV,FALSE
+D005,Road Accidents 2026,2655,20,235,35,Survey,TRUE
+D006,Water Readings 2024,3086,23,282,42,Sensor,FALSE
+D007,Inventory Records 2025,-100,26,329,49,Administrative,FALSE
+D008,Facility Reports 2026,3948,29,376,56,CSV,FALSE
+D009,Student Survey 2024,4379,32,423,63,Survey,FALSE
+D010,Market Prices 2025,4810,35,470,70,Sensor,TRUE
+D011,Weather Logs 2026,5241,6,517,77,Administrative,FALSE
+D012,Retail Transactions 2024,5672,9,564,84,CSV,FALSE
+D013,Road Accidents 2025,6103,12,,6,Survey,FALSE
+D014,Water Readings 2026,6534,15,658,13,Sensor,FALSE
+D015,Inventory Records 2024,6965,18,705,20,Administrative,TRUE
+D016,Facility Reports 2025,7396,21,752,27,CSV,FALSE
+D017,Student Survey 2026,7827,24,799,34,Survey,FALSE
+D018,Market Prices 2024,8258,27,846,41,Excel File,FALSE
+D019,Weather Logs 2025,8689,30,893,48,Administrative,FALSE
+D020,Retail Transactions 2026,9120,33,40,55,CSV,TRUE
